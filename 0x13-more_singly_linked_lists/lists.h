@@ -10,8 +10,8 @@
 
 /**
  * struct listint_s - singly linked list
- * @n: integer to store
- * @next: points to the struct
+ * @n: integer
+ * @next: points to the next node
  *
  * Description: singly linked list node structure
  */
